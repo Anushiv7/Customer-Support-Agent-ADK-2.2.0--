@@ -1,0 +1,15 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.env
+
+# ADK/Agents CLI ignores
+.google-agents-cli/
+.adk/
+session.db
+
+# OS ignores
+.DS_Store
+Thumbs.db
